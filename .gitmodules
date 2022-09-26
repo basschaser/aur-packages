@@ -1,6 +1,0 @@
-[submodule "odin2-synthesizer"]
-	path = odin2-synthesizer
-	url = https://aur.archlinux.org/odin2-synthesizer.git
-[submodule "odin2-synthesizer-bin"]
-	path = odin2-synthesizer-bin
-	url = https://aur.archlinux.org/odin2-synthesizer-bin.git
